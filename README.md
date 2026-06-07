@@ -8,6 +8,10 @@ Unlike a basic EC2 web server deployment, this project introduces DNS management
 
 ---
 
+## Architecture Diagram
+
+![AWS Cloudflare Security Lab Architecture](Screenshots/aws-cloudflare-security-lab-architecture.png)
+
 # Project Objectives
 
 * Deploy an Nginx web application on AWS EC2
