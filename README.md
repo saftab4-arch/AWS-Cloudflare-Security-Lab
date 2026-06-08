@@ -27,7 +27,7 @@ Unlike a basic EC2 web server deployment, this project introduces DNS management
 
 ---
 
-# Architecture Diagram
+# Architecture Diagram below
 
 Insert Architecture Diagram Image Here
 
