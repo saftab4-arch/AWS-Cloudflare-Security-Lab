@@ -8,7 +8,7 @@ Unlike a basic EC2 web server deployment, this project introduces DNS management
 
 ---
 
-## Architecture Diagram
+## Architecture Diagram below
 
 ![AWS Cloudflare Security Lab Architecture](Screenshots/aws-cloudflare-security-lab-architecture.png)
 
